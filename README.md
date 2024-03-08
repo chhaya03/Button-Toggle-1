@@ -1,5 +1,5 @@
 # Button-Toggle
-Changing background clicking on button .
+clicking on button ,Changing background dark mode <=> light mode
 <h1>Technologies Used</h1>
 <ul>
   <li>HTML</li>
